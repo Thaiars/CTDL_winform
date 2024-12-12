@@ -1,0 +1,24 @@
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\bin\Debug\GameMovement.exe.config
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\bin\Debug\GameMovement.exe
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\bin\Debug\GameMovement.pdb
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.AssemblyReference.cache
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.Form1.resources
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.Properties.Resources.resources
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.GenerateResource.cache
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.CoreCompileInputs.cache
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.exe
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.pdb
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.frmMenu.resources
+D:\Project\Winform C#\GameWinForms\GameMovement\GameMovement\obj\Debug\GameMovement.Form2.resources
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\bin\Debug\GameMovement.exe.config
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\bin\Debug\GameMovement.exe
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\bin\Debug\GameMovement.pdb
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.AssemblyReference.cache
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.Form1.resources
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.Form2.resources
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.frmMenu.resources
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.Properties.Resources.resources
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.GenerateResource.cache
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.csproj.CoreCompileInputs.cache
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.exe
+C:\Users\Thai Le\Downloads\GameMovement (1)\GameMovement\GameMovement\obj\Debug\GameMovement.pdb

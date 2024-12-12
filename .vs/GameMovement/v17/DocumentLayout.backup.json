@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|c:\\users\\thai le\\downloads\\gamemovement (1)\\gamemovement\\gamemovement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|solutionrelative:gamemovement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\gamemovement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|solutionrelative:gamemovement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\gamemovement\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|solutionrelative:gamemovement\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\gamemovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C0041-C470-4461-9A3D-B6D4CF5EDC61}|GameMovement\\GameMovement.csproj|solutionrelative:gamemovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Form2.cs",
+              "RelativeDocumentMoniker": "GameMovement\\Form2.cs",
+              "ToolTip": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Form2.cs",
+              "RelativeToolTip": "GameMovement\\Form2.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwMYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:06:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\frmMenu.cs",
+              "RelativeDocumentMoniker": "GameMovement\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\frmMenu.cs",
+              "RelativeToolTip": "GameMovement\\frmMenu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:58:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Program.cs",
+              "RelativeDocumentMoniker": "GameMovement\\Program.cs",
+              "ToolTip": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Program.cs",
+              "RelativeToolTip": "GameMovement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:58:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Form1.cs",
+              "RelativeDocumentMoniker": "GameMovement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Thai Le\\Downloads\\GameMovement (1)\\GameMovement\\GameMovement\\Form1.cs",
+              "RelativeToolTip": "GameMovement\\Form1.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAWwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:58:32.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
